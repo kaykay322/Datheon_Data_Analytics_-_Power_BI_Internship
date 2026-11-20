@@ -40,4 +40,3 @@ The goal is to transform raw business data into actionable insights that support
   
 ## Author
 Kim Kudakwashe Mutunduru
-Your Name
